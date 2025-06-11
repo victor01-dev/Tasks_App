@@ -1,4 +1,4 @@
-📝 Task App - Modern Android Development
+📝 Task App
 Una aplicación de gestión de tareas desarrollada con las mejores prácticas y tecnologías modernas de Android.
 
 🛠 Tecnologías y Características
